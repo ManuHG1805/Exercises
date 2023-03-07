@@ -3,7 +3,7 @@ package com.openBootcamp;
 public class FirstExercise {
 
     public static void main(String[] args) {
-        // 1.Numbers
+        // 1.Numbe
 
         // 1.2.Integers
         byte typeByte = 1;
